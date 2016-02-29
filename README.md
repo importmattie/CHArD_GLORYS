@@ -2,7 +2,7 @@
 
 CHArD (= ClickHist + Arctic Data)
 
-An implementation for exploring the GLORYS dataset
+An implementation of ClickHist for exploring the GLORYS dataset
 
 Author: Matthew Niznik (matthewniznik on Github)
 
